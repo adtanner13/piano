@@ -3,12 +3,13 @@ html {
 }
 
 nav {
-  background-color: #c8aa00;
+  background-color: #ffba19;
   overflow: hidden;
   display: flex;
   justify-content: center;
   top: 0;
   font-size: x-large;
+  font-style: bold;
 }
 
 nav a {
@@ -27,4 +28,5 @@ section {
   background-color: #ffdf6b;
   border-radius: 5px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
 }
