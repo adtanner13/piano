@@ -1,0 +1,30 @@
+html {
+  background-color: #ffcd35;
+}
+
+nav {
+  background-color: #c8aa00;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  top: 0;
+  font-size: x-large;
+}
+
+nav a {
+  display: block;
+  text-decoration: none;
+  padding: 20px;
+  text-align: center;
+  color: #000000;
+  padding: 1%;
+}
+
+section {
+  padding: 2%;
+  max-width: 800px;
+  margin: 2% auto;
+  background-color: #ffdf6b;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
