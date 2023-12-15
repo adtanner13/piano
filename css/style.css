@@ -23,10 +23,15 @@ nav a {
 
 section {
   padding: 2%;
-  max-width: 800px;
+  max-width: 85%;
   margin: 2% auto;
   background-color: #ffdf6b;
   border-radius: 5px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
   text-align: center;
+}
+
+iframe {
+  max-width: 70%;
+  max-height: auto;
 }
